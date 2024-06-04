@@ -34,6 +34,9 @@ autogenstudio ui
     - three dots "..." -> Group Chat (this used to be default i think)
     - summary method: last = last response from each agent, llm = model will summarize
     - userproxy: stands in for the human (system prompt: "You are a python programming student...")
+- playground, choose workflow -> new session
+question: how do we do rag with this?
+also run an example with local LMStudio for comparison?
 
 
 

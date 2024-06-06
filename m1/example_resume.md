@@ -1,5 +1,5 @@
 # Jane Doe
-Software Developer | 3 Years of Experience
+Software Developer | 3.5 Years of Experience
 
 ## Contact
 - Email: jane.doe@example.com

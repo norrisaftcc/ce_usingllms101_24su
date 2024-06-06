@@ -17,3 +17,5 @@
 ### Today's Task - Explain, Enhance, Summarize
 "Chaining" when the context window is full (depending on the model, you can only fit so much in memory at once)
 
+### MD - PPT
+look at "marp.app" - vscode 

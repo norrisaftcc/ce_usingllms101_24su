@@ -1,0 +1,2 @@
+[sqlite_utils]
+migrate = sqlite_migrate.sqlite_utils_plugin

@@ -29,7 +29,7 @@ def prompt_chainable_poc():
     sonnet_3_5_model = build_models()
 
     result, context_filled_prompts = MinimalChainable.run(
-        context={"topic": "AI Agents"},
+        context={"topic": "Dishwashers", "output": "paragraphs"},
         model=sonnet_3_5_model,
         callable=prompt,
         prompts=[
@@ -38,7 +38,7 @@ def prompt_chainable_poc():
             # prompt #2
             "Generate one hook for the blog post title: {{output[-1].title}}",
             # prompt #3
-            """Based on the BLOG_TITLE and BLOG_HOOK, generate the first paragraph of the blog post.
+            """Based on the BLOG_TITLE and BLOG_HOOK, write a Python program which generates five to seven Powerpoint slides about the topic.
 
 BLOG_TITLE:
 {{output[-2].title}}

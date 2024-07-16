@@ -1,22 +1,22 @@
 🔗 -------- Prompt Chain Result #1 -------------
 
-Generate one blog post title about: Dishwashers. Respond in strictly in JSON in this format: {'title': '<title>'}
+Generate one blog post title about: Duendes. Respond in strictly in JSON in this format: {'title': '<title>'}
 
 🔗🔗 -------- Prompt Chain Result #2 -------------
 
-Generate one hook for the blog post title: 5 Energy-Saving Hacks for Your Dishwasher That Will Slash Your Utility Bills
+Generate one hook for the blog post title: Unveiling the Mischievous World of Duendes: Folklore's Tiny Tricksters
 
 🔗🔗🔗 -------- Prompt Chain Result #3 -------------
 
-Based on the BLOG_TITLE and BLOG_HOOK, write a Python program which generates five paragraphs about the topic.
+Based on the BLOG_TITLE and BLOG_HOOK, write a Python program which generates five to seven Powerpoint slides about the topic.
 
 BLOG_TITLE:
-5 Energy-Saving Hacks for Your Dishwasher That Will Slash Your Utility Bills
+Unveiling the Mischievous World of Duendes: Folklore's Tiny Tricksters
 
 BLOG_HOOK:
-Here's a hook for the blog post title "5 Energy-Saving Hacks for Your Dishwasher That Will Slash Your Utility Bills":
+Here's a hook for the blog post title "Unveiling the Mischievous World of Duendes: Folklore's Tiny Tricksters":
 
-"Tired of sky-high energy bills? Your dishwasher might be the secret culprit!"
+"Step into a realm where pint-sized pranksters reign supreme and household chaos is just the beginning..."
 
-This hook creates curiosity and addresses a common pain point (high utility bills) while hinting that the article will provide valuable, money-saving information related to a common household appliance.
+This hook aims to intrigue readers by hinting at the playful and mysterious nature of duendes, while also suggesting that there's more to these creatures than meets the eye. It invites the audience to explore a hidden world of mischief and folklore.
 

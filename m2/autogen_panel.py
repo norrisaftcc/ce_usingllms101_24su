@@ -1,5 +1,5 @@
 # To install required packages:
-# pip install pyautogen==0.2.28 panel==1.3.8
+# pip install ag2==0.2.28 panel==1.3.8
 
 #YouTube Tutorial for this code: https://youtu.be/9lSaRP9GLCY?si=Cl55a9-TbI_2WoQn
 
